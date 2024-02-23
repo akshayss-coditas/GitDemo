@@ -2,5 +2,8 @@ Alphabets
 a
 b
 c
+dd
+d
+d
 
 
